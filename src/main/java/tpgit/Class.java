@@ -13,4 +13,5 @@ public class Class {
     // C'est une classe
     
     // Ajout d'un commentaire
+    //fgjvhg
 }
